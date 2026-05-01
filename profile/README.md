@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace with practice logo. Recommended: 200-300px wide, transparent PNG, the bee/butterfly mark on white or a slim banner. -->
-<img src="https://placehold.co/280x280/png?text=Twin+Smiles+Logo" alt="Twin Smiles Orthodontics logo" width="220">
+<img src="assets/practice_logo.png" alt="Twin Smiles Orthodontics logo" width="220">
 
 # Twin Smiles Orthodontics
 
@@ -38,7 +38,7 @@ If you've reached this page expecting a patient resource, you're in the wrong pl
 ## Visit us
 
 <!-- Replace with practice exterior or interior photo. Recommended: 16:9 ratio, ~1000px wide. -->
-<img src="https://placehold.co/1000x500/png?text=Practice+Photo" alt="Twin Smiles Orthodontics office" width="100%">
+<img src="assets/practice_interior.webp" alt="Twin Smiles Orthodontics office" width="100%">
 
 **3301 Alma Street** &nbsp;·&nbsp; Palo Alto, CA 94306
 [Get directions](https://maps.google.com/?q=3301+Alma+Street+Palo+Alto+CA+94306)
